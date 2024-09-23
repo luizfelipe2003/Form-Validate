@@ -1,4 +1,4 @@
-# Projeto de Formulário Simples e Página de Login
+# Projeto de Formulário Simples / Página de Cadastro
 
 Este projeto consiste em um formulário simples com validação e uma página de login. O objetivo é fornecer uma interface intuitiva para os usuários se registrarem e acessarem suas contas.
 
@@ -14,5 +14,19 @@ Este projeto consiste em um formulário simples com validação e uma página de
 - CSS
 - JavaScript
 
-## Estrutura do Projeto
+# Simple Form / Sign in Page Project
+
+This project consists of a simple form with validation and a login page. The goal is to provide an intuitive interface for users to register and access their accounts.
+
+## Features
+
+- **Form Validation:** The form validates fields to ensure that the provided data is correct before submission.
+- **Error Messages:** Error messages are displayed in real time, informing users about required fields and formatting errors.
+- **Login Page:** The page allows users to log in using their credentials.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
 
